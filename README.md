@@ -4,11 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=I+build+calm%2C+useful+web+experiences;Simple+on+the+surface%2C+thoughtful+underneath;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-<img align="right" src="https://media.giphy.com/media/TVeW0ypBoGniVQLUQp/giphy.gif" alt="Intro GIF" width="400">
 
 
 
 </div>
+<img align="right" src="https://media.giphy.com/media/TVeW0ypBoGniVQLUQp/giphy.gif" alt="Intro GIF" width="400">
+
 
 ---
 
