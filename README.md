@@ -46,6 +46,21 @@ const developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
+
+
+
+
+##  Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=Learning+new+technologies;Building+meaningful+projects;Exploring+web+development;Creating+better+user+experiences" alt="Current Focus" />
+
+</div>
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
