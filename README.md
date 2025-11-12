@@ -25,10 +25,10 @@ const developer = {
 ##  About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-- Studying Bachelor of Computer Science at Swinburne University of Technology (2022–2025)
-- Focused on building experiences that feel effortless for users
-- Driven by curiosity and continuous growth  
-- I strive to design with empathy and code with purpose
+-  Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
+-  Focused on building experiences that feel effortless for users  
+-  Driven by curiosity and continuous growth  
+-  I strive to design with empathy and code with purpose 
 
 <br clear="both"/>
 
