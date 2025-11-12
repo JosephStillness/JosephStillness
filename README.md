@@ -61,6 +61,7 @@ const developer = {
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9wZ2tjcWplbDBsYzFlZHp5ZWtuMmNmY2hxN3ZiNTVnNnEyaDZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" alt="Current Focus" width="600"/>
 
 
+
 </div>
 
 
