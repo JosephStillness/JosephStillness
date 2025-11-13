@@ -24,8 +24,6 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://media.giphy.com/media/itMtKey6cL6MTyuqhB/giphy.gif" alt="Coder GIF" width="400">
-
 ## About Me
 
 
