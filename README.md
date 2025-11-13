@@ -27,7 +27,7 @@ const developer = {
 ## About Me
 
 
-<img align="right" src="https://media.giphy.com/media/itMtKey6cL6MTyuqhB/giphy.gif" alt="Coder GIF" width="400">
+<img align="right" src="https://giphy.com/gifs/ronaldo-cr7-im-here-G1X87RbwxK2EgZQbAd" alt="Coder GIF" width="400">
 
 
 - Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
