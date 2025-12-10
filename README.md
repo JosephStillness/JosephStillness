@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tran Mai Tien Dat (Joseph) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Dat (Joseph) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=I+build+calm%2C+useful+web+experiences;Simple+on+the+surface%2C+thoughtful+underneath;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
